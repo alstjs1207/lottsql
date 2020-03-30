@@ -1,0 +1,29 @@
+{
+  "name": "lottsql",
+  "version": "1.0.0",
+  "description": "Let's search for a movie by graphql",
+  "main": "index.js",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --exec babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alstjs1207/lottsql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alstjs1207/lottsql/issues"
+  },
+  "homepage": "https://github.com/alstjs1207/lottsql#readme"
+}
