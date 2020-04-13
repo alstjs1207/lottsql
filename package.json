@@ -4,7 +4,8 @@
   "description": "Let's search for a movie by graphql",
   "main": "index.js",
   "dependencies": {
-    "graphql-yoga": "^1.18.3"
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
